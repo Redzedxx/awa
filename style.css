@@ -1,0 +1,27 @@
+body{
+/*  background-image: url(backgroun.png);*/
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color:    #044b39;
+}
+div{
+  background-color:    ffffff7a;
+
+}
+.a{
+  font-family: Bradley Hand, cursive ;
+  margin-top: 8%;
+  margin-left: 55px;
+  margin-right: 650px
+}
+.aa{
+    font-family: Bradley Hand, cursive ;
+    margin-right: 55px;
+    margin-top: 250px;
+    margin-right: 700px;
+}
+.img{
+  width: 250px;
+  height: 250px;
+}
+.132 {bakground-color: #00000;}
